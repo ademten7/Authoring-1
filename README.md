@@ -14,10 +14,10 @@ This [link](#Details) will bring you to the details.
 ## Tables
 | Names | --- | Classes |
 
-| ![](/Images/ocean.jpg) | --- | ![](/Images/maid.png) </br>
-| ![](/Images/ocean.jpg) | --- | ![](/Images/maid.png) </br>
-| ![](/Images/ocean.jpg) | --- | ![](/Images/maid.png) </br>
-| ![](/Images/ocean.jpg) | --- | ![](/Images/maid.png) 
+| ![](/Images/ocean.jpg) | --- | ![](/Images/maid.png) |</br>
+| ![](/Images/ocean.jpg) | --- | ![](/Images/maid.png) |</br>
+| ![](/Images/ocean.jpg) | --- | ![](/Images/maid.png) |</br>
+| ![](/Images/ocean.jpg) | --- | ![](/Images/maid.png) |
 
 ### Details
 
