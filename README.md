@@ -3,7 +3,7 @@
 ## External Link
 Click [here](https://help.github.com/en) for Help.
 ## Internal Link
-Click [here] !(~/Authoring/Images/ouja.jpg) for Pictures.
+Click ![here](/Images/ouja.jpg) for Pictures.
 This [link](#Details) will bring you to the details.
 ## Images
 ![altText](https://picsum.photos/200)
